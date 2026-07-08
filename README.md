@@ -2,9 +2,11 @@
 
 ## About Me
 
-I am an Electrical Engineer with professional experience in Artificial Intelligence and Machine Learning research, technical writing, and scientific literature analysis across diverse application domains. My work has involved reviewing contemporary AI research, synthesizing technical knowledge, and contributing to research-oriented documentation in areas such as healthcare AI, IoT, cybersecurity, natural language processing, and intelligent systems.
+I hold a Bachelor's degree in Electrical Engineering and a Master's degree in Power Electronics. Professionally, I work as a **Research Consultant in Artificial Intelligence and Machine Learning**, contributing to AI research, solution design, technical consulting, and scientific writing across diverse engineering domains.
 
-Building on this interdisciplinary experience, I am currently developing research projects in AI for Smart Energy Systems while preparing for PhD admission (2027 Intake). My long-term research goal is to contribute to the development of **Trustworthy AI for Smart Energy Systems**, focusing on explainability, reliability, uncertainty quantification, and decision support for safety-critical energy applications.
+My work involves developing AI-driven research proposals, identifying appropriate machine learning and deep learning methodologies, designing solution architectures, and supporting the development of AI-based solutions for real-world applications.
+
+Based on my engineering background and interdisciplinary AI experience, I am currently developing research projects in **AI for Smart Energy Systems** while preparing for **PhD admission (2027 Intake)**. My long-term research goal is to contribute to the development of **Trustworthy AI for Smart Energy Systems**, focusing on explainability, reliability, uncertainty quantification, and decision support for safety-critical energy applications.
 
 ---
 
@@ -45,21 +47,32 @@ This research aims to develop trustworthy AI methodologies for smart energy syst
 
 ## 💼 Professional Experience
 
-My professional experience includes technical research and scientific writing in Artificial Intelligence and Machine Learning across multiple application domains, including:
+### Research Consultant – Artificial Intelligence & Machine Learning
 
+Professional experience in AI and Machine Learning research, solution design, technical consulting, scientific writing, and machine learning model development across multiple engineering domains.
+
+My work includes:
+
+- Developing AI-driven research proposals
+- Designing AI solution methodologies for real-world engineering problems
+- Identifying and evaluating suitable Machine Learning and Deep Learning techniques
+- Supporting the development and evaluation of AI-based models
+- Comparative analysis of AI algorithms and methodologies
+- Technical research and scientific writing
+- End-to-end AI workflow design and documentation
+
+### Application Domains
+
+- Smart Energy Systems
+- Smart Grids
+- Electric Vehicles (EVs)
+- Battery Management Systems (BMS)
+- Energy System Security
+- IoT Security
 - Healthcare AI
-- Internet of Things (IoT)
 - Cybersecurity
-- Natural Language Processing
-- Intelligent Systems
-
-Key responsibilities have included:
-
-- Technical literature reviews
-- Scientific and technical writing
-- Comparative analysis of AI and ML techniques
-- Research synthesis
-- Evaluation of machine learning and deep learning methodologies
+- Fault Detection & Predictive Analytics
+- Intelligent Engineering Systems
 
 ---
 
@@ -68,9 +81,8 @@ Key responsibilities have included:
 ### Programming
 
 - Python
-- MATLAB
 
-### Machine Learning & AI
+### Artificial Intelligence & Machine Learning
 
 - Scikit-learn
 - TensorFlow
@@ -86,35 +98,13 @@ Key responsibilities have included:
 ### Engineering Tools
 
 - MATLAB/Simulink
-- LTspice
 - Git & GitHub
 
 ---
 
 ## 🎓 Academic Goal
 
-To pursue a fully funded PhD focused on developing Trustworthy AI methodologies for Smart Energy Systems, contributing to reliable, explainable, and uncertainty-aware AI solutions for next-generation energy infrastructure.
-
----
-
-## 📈 Current Roadmap
-
-### 2026
-
-- Build a research-oriented GitHub portfolio
-- Complete AI projects in Smart Energy Systems
-- Prepare a PhD research proposal
-- Strengthen expertise in Trustworthy AI
-
-### 2027
-
-- Begin PhD research in Trustworthy AI for Smart Energy Systems
-
----
-
-## 🔬 Research Philosophy
-
-I believe that successful AI systems for critical engineering applications should not only achieve high predictive performance but also be reliable, interpretable, and capable of communicating uncertainty. My long-term goal is to contribute to AI methodologies that enable informed and trustworthy decision-making in smart energy systems.
+To pursue a fully funded PhD focused on developing **Trustworthy AI methodologies for Smart Energy Systems**, contributing to reliable, explainable, and uncertainty-aware AI solutions for next-generation energy infrastructure.
 
 
 ## 📫 Connect With Me
@@ -122,7 +112,4 @@ I believe that successful AI systems for critical engineering applications shoul
 - LinkedIn *(Profile under development)*
 - GitHub: **github.com/thejaswini-kashyap**
 
----
 
-
-⭐ **This GitHub profile documents my journey from Electrical Engineering to AI research, showcasing projects, technical exploration, and research development towards Trustworthy AI for Smart Energy Systems.**
