@@ -12,15 +12,11 @@ Based on my engineering background and interdisciplinary AI experience, I am cur
 
 ## 🎯 Research Interests
 
-- Artificial Intelligence & Machine Learning
+- Artificial Intelligence
+- Machine Learning and Deep Learning
 - Trustworthy AI
 - Explainable AI (XAI)
-- Reliable & Robust Machine Learning
-- Uncertainty Quantification
-- Time-Series Forecasting
 - Smart Energy Systems
-- Smart Grids
-- Renewable Energy Analytics
 - AI-Based Decision Support Systems
 
 ---
@@ -39,9 +35,9 @@ This research aims to develop trustworthy AI methodologies for smart energy syst
 
 ## 🚀 Current Projects
 
-- Uncertainty-Aware Load Forecasting for Smart Energy Systems *(In Progress)*
-- AI Research Portfolio Development *(In Progress)*
-- Literature Review on AI for Smart Energy Systems *(In Progress)*
+- Uncertainty-Aware Load Forecasting for Smart Energy Systems
+
+
 
 ---
 
@@ -53,9 +49,8 @@ Professional experience in AI and Machine Learning research, solution design, te
 
 My work includes:
 
-- Developing AI-driven research proposals
 - Designing AI solution methodologies for real-world engineering problems
-- Identifying and evaluating suitable Machine Learning and Deep Learning techniques
+- Identifying and evaluating appropriate Machine Learning and Deep Learning techniques
 - Supporting the development and evaluation of AI-based models
 - Comparative analysis of AI algorithms and methodologies
 - Technical research and scientific writing
@@ -67,7 +62,6 @@ My work includes:
 - Smart Grids
 - Electric Vehicles (EVs)
 - Battery Management Systems (BMS)
-- Energy System Security
 - IoT Security
 - Healthcare AI
 - Cybersecurity
